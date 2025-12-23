@@ -126,7 +126,3 @@ Feel free to reach out — I’m open to opportunities and collaborations.
 - This portfolio is fully responsive
 - Built with clean, maintainable code
 - Focused on real-world front-end practices
-
----
-
-⭐ If you like this portfolio, feel free to star the repository!
